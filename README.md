@@ -1,8 +1,8 @@
 # csmt-latex-template
 Customized [CSMT LaTeX template](https://csmcw-csmt.cn/file.html)
 
-[![license](https://img.shields.io/github/license/george-chou/Paper-latex-template.svg)](https://github.com/george-chou/Paper-latex-template/blob/master/LICENSE)
-[![CI](https://github.com/george-chou/Paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/Paper-latex-template/actions/workflows/blank.yml)
+[![license](https://img.shields.io/github/license/george-chou/paper-latex-template.svg)](https://github.com/george-chou/paper-latex-template/blob/master/LICENSE)
+[![CI](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml/badge.svg)](https://github.com/george-chou/paper-latex-template/actions/workflows/blank.yml)
 
 Sound and music technology is a multidisciplinary field. It involves science and technology subjects such as acoustics, audio signal processing, computer audition, machine learning, and music subjects such as composition, music production, sound engineering, sound design, device design etc. Sound and music technology has been developing in China since the 1990s. However, the progress is relatively slow due to various reasons. In December 2013, professors from Fudan University and Tsinghua University jointly established the first China Sound and Music Computing Workshop (CSMCW).
 
